@@ -1,0 +1,21 @@
+html{
+	margin: 0px;
+	padding: 0px;
+	font-size: 14px;
+}
+body{
+	margin: 0px;
+	padding: 0px;
+}
+.navbar-brand{
+	margin: 0px;
+	padding: 10px;
+}
+.navbar-brand h1{
+	font-size: 2rem;
+	margin: 0px;
+}
+.flyer{
+	background: url('https://cdni.rbth.com/rbthmedia/images/2018.10/original/5bc920f985600a58bc5f370e.jpg');
+	background-size: cover;
+}
